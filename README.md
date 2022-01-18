@@ -4,4 +4,4 @@
 .net Core 3.1
 
 # Startup project
-Run project WebApp
+Run project WebApplication
